@@ -1,0 +1,87 @@
+* {
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Work Sans', sans-serif;
+}
+
+
+/* header part*/
+.header {
+    background-image: url("../images/banner/banner3.png");
+    background-repeat: no-repeat;
+    width: 1600px;
+    height: 808px;
+    /* background-size: cover;
+
+    background-position: center; */
+}
+
+.title {
+    font-weight: 700;
+    font-size: 65px;
+    color: #FFFFFF;
+    padding: 216px 230px 24px 845px;
+    text-align: right;
+}
+
+.sub-title {
+    font-weight: 400;
+    font-size: 16px;
+    color: #FFFFFF;
+    text-align: right;
+    padding: 0 230px 32px 876px;
+}
+
+.btn {
+    width: 160px;
+    height: 64px;
+    border-radius: 5px;
+    font-weight: 600;
+    font-size: 20px;
+    text-align: center;
+    color: #005FAC;
+    border: 0;
+    padding: 21px 25px 20px 26px;
+}
+
+.btn-pd {
+    padding: 0 230px 166px 1210px;
+}
+
+/* main part */
+
+/* failures-section */
+.failures-item {
+    display: flex;
+}
+
+.failures-1 {
+    width: 569px;
+    height: 723.3px;
+    padding: 131px 87px 0 206px;
+}
+
+.failures-2 {
+    padding: 370px 322px 214px 0;
+}
+
+.failures-title {
+    color: #151414;
+    font-weight: 700;
+    font-size: 40px;
+    padding: 0 450px 24px 0;
+}
+
+.failures-desciption {
+    font-weight: 400;
+    font-size: 16px;
+    color: #444343;
+}
+/* plans-section */
+.plans{
+    font-weight: 700;
+font-size: 40px;
+/* text-align: center; */
+color: #151414;
+padding: 130px 656px 50px 765px;
+}
