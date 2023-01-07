@@ -151,13 +151,13 @@
     width: 100%;
 }
 
-.img-postion {
+.img-content {
     padding: 150px;
 
 
 }
 
-.img-grad {
+.img-title {
     width: 100%;
     height: 300px;
     border-radius: 8px;
@@ -167,7 +167,7 @@
     background-repeat: no-repeat;
 }
 
-.img-grad h1 {
+.img-title h1 {
     color: #FFF;
     padding: 55px 100px;
     line-height: 40px;
